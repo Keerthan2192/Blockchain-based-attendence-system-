@@ -1,0 +1,5 @@
+{'Staff ID': '123', 'Staff Name': 'John Doe', 'Date': '2024-05-02', 'Time': '11:30:28', 'Image Path': 'images\\2024-05-02\\John Doe_113027.jpg'}
+{'Staff ID': '456', 'Staff Name': 'Jane Smith', 'Date': '2024-05-02', 'Time': '11:31:28', 'Image Path': 'images\\2024-05-02\\Jane Smith_113128.jpg'}
+{'Staff ID': '123', 'Staff Name': 'John Doe', 'Date': '2024-05-02', 'Time': '11:36:08', 'Image Path': 'images\\2024-05-02\\John Doe_113607.jpg', 'Hash': '3c079a2817cc6882f1820b42da09317d2a4ca2f3b5097ba8adb716f336ead352'}, 'Hash': e2d284144402f681f6e054b4d755ef133c6e6e50d58725d715edf0f7523afeb6
+{'Staff ID': '123', 'Staff Name': 'John Doe', 'Date': '2024-05-02', 'Time': '11:38:02', 'Image Path': 'images\\2024-05-02\\John Doe_113802.jpg', 'Hash': '219752913ed1279e1fe670964b844b8b0c43680fc43093fe1bd06c35089dcc35'}, 'Hash': f6b3609430cd6243aff510a09f377de74bd0b42b193a1d7882e7f0d44841676d
+{'Staff ID': 'P2P2', 'Staff Name': 'Arun V', 'Date': '2024-05-02', 'Time': '11:41:09', 'Image Path': 'images\\2024-05-02\\Arun V_114109.jpg', 'Hash': 'a541dd4f8284ce6b807177cc83a2a67c3cf05f103b3e906ab46da77dfe6e2163'}, 'Hash': 4fbaea332d727210852e9bfb646d76a72336bff8704fc14c52176c4ce94fda90
